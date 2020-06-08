@@ -1,1 +1,2 @@
-# crud1
+# Screenshot
+![](docs/screenshot.png)
